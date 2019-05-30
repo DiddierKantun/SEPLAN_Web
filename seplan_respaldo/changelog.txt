@@ -1,0 +1,72 @@
+Aug 16 - 2015 
+North Col Theme v1.3.1.2
+
+ - bug in price-range slider in shop-2col.html, shop-3col.html, shop-4col.html
+ - bug - wrong name of the flexslider, typo in filename
+ 
+-------------------------------------------------------------------------------------------
+
+Jun 29 - 2015 
+North Col Theme v1.3.1
+
+ - file added new color/border-color to .btn-outline-grey
+ 
+ - bug in navbar mega-menu, border was not full height when column was not full height  
+
+-------------------------------------------------------------------------------------------
+
+Jun 22 - 2015 
+North Col Theme v1.3
+
+ - file added shop-2col.html page
+ - file added shop-3col.html page
+ - file added shop-4col.html page
+ - file added shop-single-product.html page
+ - file added shop-cart.html page
+ - file added code for fullwidth menu in navbar
+ - file style.css added letter-spacing to heading h1,h2,h3,h4 
+
+ - updated updated to Bootstrap v3.3.5
+
+-------------------------------------------------------------------------------------------
+Jun 10 - 2015 
+North Col Theme v1.2
+
+ - file all files that has dropdown-menu & submenu - removed class 'dropdown-single' use class 'dropdown' instead
+ - file index-fullscreen-mp.html - welcome-box added 2 buttons instead of plain links  
+ - file index-image-mp.html - welcome-box added 2 buttons instead of plain links
+ - file index-main-mp.html - welcome-box added 2 buttons instead of plain links
+ - file index-parallax-mp.html - welcome-box added 2 buttons instead of plain links
+ - file index-textrotator-mp.html - welcome-box added 2 buttons instead of plain links
+ - file index-video-mp.html - welcome-box added 2 buttons instead of plain links
+ - file index-fullscreen-op.html - welcome-box added 2 buttons instead of plain links  
+ - file index-image-op.html - welcome-box added 2 buttons instead of plain links
+ - file index-main-op.html - welcome-box added 2 buttons instead of plain links
+ - file index-parallax-op.html - welcome-box added 2 buttons instead of plain links
+ - file index-textrotator-op.html - welcome-box added 2 buttons instead of plain links
+ - file index-video-op.html - welcome-box added 2 buttons instead of plain links
+ - file index-fullscreen-mp.html - #services-bottom flexslider added buttons instead of plain links  
+ - file index-image-mp.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-main-mp.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-parallax-mp.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-textrotator-mp.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-video-mp.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-fullscreen-op.html - #services-bottom flexslider added buttons instead of plain links 
+ - file index-image-op.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-main-op.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-parallax-op.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-textrotator-op.html - #services-bottom flexslider added buttons instead of plain links
+ - file index-video-op.html - #services-bottom flexslider added buttons instead of plain links
+ - file all index pages & all portfolio pages - added new separators in filter menu
+ - file all index pages & pricing.html - added wider button + added more space around it in pricetables
+ 
+ - bug in 'mozilla browser - navbar --> dropdown-menu --> sub-menu --> last child had no border
+ - bug in 'chrome-browser - main-icon-medium-alt-2, icon did not work properly on hover with transparent background
+ - bug in index pages - id #why-us class 'has-border' did not work
+ 
+ - updated renamed folder 'font-awesome-4.2.0' to 'font-awesome'
+ - updated font-awesome v4.3 was added in folder assets/font-awesome/
+ - updated wrote more information in manual in charpter: Flexslider
+ - updated wrote more information in manual in charpter: Navbar
+ 
+ 
