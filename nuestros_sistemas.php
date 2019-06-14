@@ -71,9 +71,7 @@ echo $tmp->getPage();
             Elaborar los Documentos de Opinión, en donde las Dependencias y Entidades fijen su postura institucional ante las observaciones y recomendaciones derivadas de la evaluación.
             Elaborar los Documentos de Trabajo, en donde las Dependencias y Entidades establezcan acciones, responsables y comprometan evidencia de la atención a las observaciones y recomendaciones derivadas de la evaluación.
             Dar seguimiento a la atención de los Aspectos Susceptibles de Mejora que se comprometieron en los Documentos de Trabajo.</p>
-          <a href="#" class="btn btn-lg btn-dark">
-            <span class="small">IR AL SITIO</span>
-          </a>
+         
         </div>
 
         <div class="col-lg-4">
@@ -91,9 +89,7 @@ echo $tmp->getPage();
             consiste en un sistema informático por medio del cual se registra y da
             seguimiento a los planes anuales de trabajo de las dependencias y entidades, y se
             captura la información relevante para la integración del Informe de Gobierno.</p>
-          <a href="#" class="btn btn-lg btn-dark">
-            <span class="small">IR AL SITIO</span>
-          </a>
+          
         </div>
       </div>
       <!--/.row-->
