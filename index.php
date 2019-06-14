@@ -160,7 +160,7 @@ echo $tmp->getPage();
           </a>
           <div class="h-divider"></div>
           <!--Google Play-->
-          <a href="http://seplan.yucatan.gob.mx/Archivos/Organigrama Ejecutivo.jpg" class="btn btn-lg btn-dark" target="_blank" style="width:250px">
+          <a href="http://seplan.yucatan.gob.mx/Archivos/Organigrama Ejecutivo.jpg" class="btn btn-lg btn-dark" target="_blank" style="width:195px">
             <span class="small">ORGANIGRAMA<br>INSTITUCIONAL</span>
           </a>
 
