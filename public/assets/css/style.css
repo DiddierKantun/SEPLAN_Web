@@ -114,7 +114,11 @@ h4: 20px, letter-spacing: 1.5px
 58. General Overwrites
 59. Bootstrap multicolumn grid 
 -------------------------------------------------------------------*/
+@font-face {
+    font-family: 'Panton-Regular';
+    src: url('../../font/panton/Panton-Regular.otf');
 
+}  
 
 /* ==============================================================
    1. Common Styles
@@ -125,6 +129,7 @@ body, html {
    
 body {
     font-family: 'Open Sans', sans-serif;
+    font-family: 'Panton-Regular', sans-serif;
     text-shadow: none;
     background: #fff;
 }
@@ -565,7 +570,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 .section-title-line:after {
     content: "\e60e";
-    font-family: xlntcode;
+    font-family: 'Panton-Regular', sans-serif;
     margin: 0;
     display: block;
     text-align: center;
@@ -652,7 +657,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
     border-bottom: none!important;
 }
 .welcome-box-list li:before {
-    font-family: xlntcode;
+    font-family: 'Panton-Regular', sans-serif;
     content: "\e600";
     margin-left: -3px;
     padding-right: 3px;
@@ -3087,7 +3092,7 @@ ul.timeline>li>.timeline-panel:after {
 }
 .app-landing-button .btn {
     font-size: 13px;
-    padding: 4.5px 12px;
+    padding: 7px 12px;
     height: 46px;
 }
 .app-landing-button span {
@@ -3806,7 +3811,7 @@ a.gmap-btn .fa-angle-down {
     border-bottom: none!important;
 }
 .f-widget-list li:before {
-    font-family: xlntcode;
+    font-family: 'Panton-Regular', sans-serif;
     content: "\e600";
     margin-left: -3px;
     padding-right: 3px;
@@ -3904,7 +3909,7 @@ a.gmap-btn .fa-angle-down {
     font-weight: 300;
     font-size: 30px;
     line-height: 30px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Panton-Regular', sans-serif;
     border-style: none;
     background-color: transparent;
     letter-spacing: 1px;
@@ -3917,7 +3922,7 @@ a.gmap-btn .fa-angle-down {
     font-weight: 300;
     font-size: 48px;
     line-height: 52px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Panton-Regular', sans-serif;
     border-style: none;
     background-color: transparent;
     letter-spacing: 1px;
@@ -3930,7 +3935,7 @@ a.gmap-btn .fa-angle-down {
     font-weight: 300;
     font-size: 22px;
     line-height: 24px;
-    font-family: "Open Sans", sans-serif;
+   font-family: 'Panton-Regular', sans-serif;
     border-style: none;
     background-color: transparent;
     letter-spacing: 1px;
@@ -3943,7 +3948,7 @@ a.gmap-btn .fa-angle-down {
     font-weight: 300;
     font-size: 20px;
     line-height: 26px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Panton-Regular', sans-serif;
     border-style: none;
     background-color: transparent;
     letter-spacing: 0;
@@ -3955,7 +3960,7 @@ a.gmap-btn .fa-angle-down {
     font-weight: 600;
     font-size: 20px;
     line-height: 26px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Panton-Regular', sans-serif;
     border-style: none;
     background-color: transparent;
     letter-spacing: 1px;
@@ -4016,7 +4021,7 @@ a.gmap-btn .fa-angle-down {
 }
 .tp-btn-dark-outline.active, .tp-btn-dark-outline:active, .tp-btn-dark-outline:focus, .tp-btn-dark-outline:hover {
     color: #fff;
-    background-color: #666;
+    background-color:#8B799A;
     border: 1px solid #333!important;
 }
 /* ==============================================================

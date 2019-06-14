@@ -109,62 +109,48 @@ class layout{
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"><img src="assets/img/logo.png" alt=""></a>
+                <a class="navbar-brand page-scroll" href="../index.php"><img src="assets/img/seplan/logo_seplan_color.png" alt=""></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                 <!-- Dropdown Menu -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">INICIO</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../index.php"><i class="fa fa-plus-circle"></i> Página principal</a></li>
-                    </ul>
+                <li>
+                    <a href="../index.php">INICIO</a>                  
+                </li> <!-- /.dropdown -->
+                <!-- Dropdown Menu End -->
+
+                <!-- Dropdown Menu -->
+                <li>
+                    <a href="../consejos.php">CONSEJOS</a>
+                </li> <!-- /.dropdown -->
+                <!-- Dropdown Menu End -->
+
+                <!-- Dropdown Menu -->
+                <li>
+                    <a href="../evaluacion.php">EVALUACIÓN</a>
+                </li> <!-- /.dropdown -->
+                <!-- Dropdown Menu End -->
+
+                <!-- Dropdown Menu -->
+                <li>
+                    <a href="../nuestros_sistemas.php">NUESTROS SISTEMAS</a>                    
                 </li> <!-- /.dropdown -->
                 <!-- Dropdown Menu End -->
 
                 <!-- Dropdown Menu -->
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">CONSEJOS</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../consejos.php"><i class="fa fa-plus-circle"></i> Consejos</a></li>
+                    <a class="dropdown-toggle" data-toggle="dropdown">TRANSPARENCIA</a>
+                    <ul class="dropdown-menu">                   
+                    <li><a href="../transparencia.php#plat_nac"><i class=""></i> PLATAFORMA NACIONAL DE TRANSPARENCIA</a></li>
+                    <li><a href="../transparencia.php#arm_cont" target="_self"><i class=""></i> ARMONIZACIÓN CONTABLE</a></li>
                     </ul>
                 </li> <!-- /.dropdown -->
                 <!-- Dropdown Menu End -->
 
                 <!-- Dropdown Menu -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">EVALUACIÓN</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../evaluacion.php"><i class="fa fa-plus-circle"></i> Evaluación</a></li>
-                    </ul>
-                </li> <!-- /.dropdown -->
-                <!-- Dropdown Menu End -->
-
-                <!-- Dropdown Menu -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">NUESTROS SISTEMAS</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../nuestros_sistemas.php"><i class="fa fa-plus-circle"></i> Nuestros sistemas</a></li>
-                    </ul>
-                </li> <!-- /.dropdown -->
-                <!-- Dropdown Menu End -->
-
-                <!-- Dropdown Menu -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">TRANSPARENCIA</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../transparencia.php"><i class="fa fa-plus-circle"></i> Transparencia</a></li>
-                    </ul>
-                </li> <!-- /.dropdown -->
-                <!-- Dropdown Menu End -->
-
-                <!-- Dropdown Menu -->
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">NOTICIAS</a>
-                    <ul class="dropdown-menu">
-                    <li><a href="../noticias.php"><i class="fa fa-plus-circle"></i> Noticias</a></li>
-                    </ul>
+                <li>
+                    <a href="../noticias.php">NOTICIAS</a>
                 </li> <!-- /.dropdown -->
                 <!-- Dropdown Menu End -->
                 </ul>
@@ -187,25 +173,31 @@ class layout{
             <div class="container">
                 <div class="row">
                 <!-- CopyRight Text -->
-                <div class="col-md-6 col-sm-6">
+                <div class="col-md-7 col-sm-7">
                     <div class="copy-footer">
                     <img src="assets/img/seplan/logo_seplan_blanco.png" alt="">
-                    <p align="left">Calle 20-A número 284 entre 3-C y 49 diagonal, Colonia Xcumpich<br>
-                    C.P. 97204, Mérida, Yucatán, México.<br>
+                    <p align="left">Calle 20-A número 284 entre 3-C y 49 diagonal<br>
+                    Colonia Xcumpich, C.P. 97204, Mérida, Yucatán, México.<br>
                     Tel. (999) 611 80 10 Ext. 47004</p>
                     </div>
                 </div>
                 <!-- Social Icons -->
-                <div class="col-md-6 col-sm-6">
-                    <div class="text-center" style="color: white">
+                <div class="col-md-2 col-sm-2" style="background-color: #593E6F">
+                    <div class="text-left" style="color: white">
                     <ul>
                         <p>Siguenos en:</p>
                         <h6>/SeplanYucatan</h6>               
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <a href="https://www.facebook.com/SeplanYucatan/" target="_blank" ><img class="person left" src="assets/img/seplan/face.png"></a>
+                        <br><br>
                         <h6>@Seplan_yucatan</h6>
-                        <li><a href="#"><i class="fa fa-twitter">155,903</i></a></li>               
+                        <a href="https://twitter.com/Seplan_yucatan/" target="_blank" ><img class="person left" src="assets/img/seplan/twt.png"></a>&nbsp 155,903
+                        <br><br>            
                     </ul>
                     </div>
+                </div>
+                <!-- Social Icons -->
+                <div class="col-md-3 col-sm-3">
+                    
                 </div>
 
                 </div>

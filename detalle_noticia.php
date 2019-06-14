@@ -15,19 +15,19 @@ echo $tmp->getPage();
   echo $tmp->generateNavbar();
   ?>
 
-  <section id="section-page-header" class="grid-block" style="background-image: url('assets/img/seplan/business_meeting.jpg'); background-size: cover;">
+  <section id="section-page-header" class="grid-block" style="background-image: url('assets/img/seplan/noticias.jpg'); background-size: cover;">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
           <!--Heading-->
-          <h1 style="color: white;">NOTICIAS</h1>
+          <h1 style="color: white;font-weight: bold;">NOTICIAS</h1>
         </div>
         <!--Breadcrumb-->
         <div class="col-md-4">
           <div class="breadcrumb">
             <ul>
-              <li><a href="#">INICIO</a></li>
-              <li><a href="#">NOTICIAS</a></li>
+              <li><a href="../index.php">INICIO</a></li>
+              <li><a href="../noticias.php">NOTICIAS</a></li>
             </ul>
           </div>
         </div>

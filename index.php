@@ -30,19 +30,19 @@ echo $tmp->getPage();
             </div>
 
 
-            <div class="caption sft xc_title_font" data-x="650" data-y="200" data-speed="800" data-start="2500" data-easing="easeOutBack">
+            <div class="caption sft xc_title_font" data-x="650" data-y="250" data-speed="800" data-start="2500" data-easing="easeOutBack">
               <b>PLAN ESTATAL DE DESARROLLO,
                 <br>
                 TRADUCIDO A LENGUA MAYA</b>
             </div>
-            <div class="caption sfb p_normal_font" data-x="650" data-y="280" data-speed="800" data-start="3000" data-easing="easeOutBack">
-              Como parte del esfuerzo continuo por la inclusión de las<br>
-              comunidades indígenas, se concluyó de manera exitosa<br>
-              la plataforma con el Plan Estatal de Desarrollo (PED)<br>
-              2018-2024 traducido a lengua. maya
+            <div class="caption sfb p_normal_font" data-x="650" data-y="330" data-speed="800" data-start="3000" data-easing="easeOutBack">
+              <h4>Como parte del esfuerzo continuo por la inclusión de las<br>
+                comunidades indígenas, se concluyó de manera exitosa<br>
+                la plataforma con el Plan Estatal de Desarrollo 2018-2024<br>
+                traducido a lengua maya.<h4>
             </div>
-            <div class="caption sfl tp-resizeme" data-x="650" data-y="430" data-speed="800" data-start="6000" data-easing="easeOutBack">
-              <a class="tp-btn-dark-outline page-scroll" href="#portfolio">LEER MÁS</a>
+            <div class="caption sfl tp-resizeme" data-x="650" data-y="460" data-speed="800" data-start="6000" data-easing="easeOutBack">
+              <a target="_blank" class="tp-btn-dark-outline page-scroll" href="http://www.seplan.yucatan.gob.mx/planestatal/ciudadana/index_maya.html">LEER MÁS</a>
             </div>
           </li>
 
@@ -51,23 +51,21 @@ echo $tmp->getPage();
             <img src="assets/img/seplan/fondo.png" alt="" style="background-color:#ededed" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
 
             <div class="caption sfl" data-x="0" data-y="center" data-voffset="20" data-speed="1000" data-start="1500" data-easing="Power3.easeInOut">
-              <img src="assets/img/seplan/ped_maya.png" alt="">
+              <img src="assets/img/seplan/Logo_PED.png" alt="">
             </div>
 
 
-            <div class="caption sft xc_title_font" data-x="650" data-y="200" data-speed="800" data-start="2500" data-easing="easeOutBack">
-              <b>PLAN ESTATAL DE DESARROLLO,
-                <br>
-                TRADUCIDO A LENGUA MAYA</b>
+            <div class="caption sft xc_title_font" data-x="650" data-y="250" data-speed="800" data-start="2500" data-easing="easeOutBack">
+              <b>PLAN ESTATAL DE DESARROLLO</b>
             </div>
-            <div class="caption sfb p_normal_font" data-x="650" data-y="280" data-speed="800" data-start="3000" data-easing="easeOutBack">
-              Como parte del esfuerzo continuo por la inclusión de las<br>
-              comunidades indígenas, se concluyó de manera exitosa<br>
-              la plataforma con el Plan Estatal de Desarrollo (PED)<br>
-              2018-2024 traducido a lengua. maya
+            <div class="caption sfb p_normal_font" data-x="650" data-y="330" data-speed="800" data-start="3000" data-easing="easeOutBack">
+              <h4>Como parte del esfuerzo continuo por la inclusión de las<br>
+                comunidades indígenas, se concluyó de manera exitosa<br>
+                la plataforma con el Plan Estatal de Desarrollo 2018-2024<br>
+                <h4>
             </div>
-            <div class="caption sfl tp-resizeme" data-x="650" data-y="430" data-speed="800" data-start="6000" data-easing="easeOutBack">
-              <a class="tp-btn-dark-outline page-scroll" href="#portfolio">LEER MÁS</a>
+            <div class="caption sfl tp-resizeme" data-x="650" data-y="460" data-speed="800" data-start="6000" data-easing="easeOutBack">
+              <a target="_blank" class="tp-btn-dark-outline page-scroll" href="http://www.seplan.yucatan.gob.mx/planestatal/ciudadana/index_maya.html">LEER MÁS</a>
             </div>
           </li>
 
@@ -90,7 +88,7 @@ echo $tmp->getPage();
           <!--Heading-->
           <h2 id="heading" class="section-title">QUIENES SOMOS</h2>
           <!--Content-->
-          <p class="intro-text">
+          <p class="intro-text text-justify">
             Somos un organismo público descentralizado de la Administración Pública estatal que
             tiene por objeto coordinar cada una de las etapas del proceso de planeación, con la
             participación de la sociedad civil y de los distintos órdenes de gobierno; los trabajos
@@ -110,7 +108,12 @@ echo $tmp->getPage();
               </div>
               <div class="skills-showcase-right-body">
                 <h4 id="heading" class="skills-showcase-right-heading">MISIÓN</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rhoncus tincidunt.</p>
+                <p class="text-justify">Coordinar la Planeación del desarrollo estatal y la rendición de cuentas de las acciones de gobierno,
+                  mediante la elaboración de los instrumentos de planeación, el diseño de políticas públicas orientadas
+                  a resultados, la gestión de la inversión estratégica a través de la vinculación intergubernamental,
+                  la implementación de un sistema de seguimiento, evaluación y la integración del informe de gobierno,
+                  que permitan incrementar la eficacia de la administración pública estatal, el cumplimiento de los
+                  compromisos asumidos con la sociedad y una mayor transparencia en la gestión pública.</p>
               </div>
             </div>
             <div class="skills-showcase-right">
@@ -121,7 +124,9 @@ echo $tmp->getPage();
               </div>
               <div class="skills-showcase-right-body">
                 <h4 id="heading" class="skills-showcase-right-heading">VISIÓN</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce rhoncus tincidunt.</p>
+                <p class="text-justify">Ser una dependencia que logre que las políticas públicas estatales, sean medibles,
+                  socialmente evaluables y que generan resultados concretos para el desarrollo del estado
+                  y el bienestar de su población .</p>
               </div>
             </div>
           </div>
@@ -129,6 +134,7 @@ echo $tmp->getPage();
 
         <!--Right Side Image-->
         <div class="col-md-5 col-sm-5 hidden-xs">
+          <br><br><br><br><br><br>
           <img class="person" src="assets/img/seplan/logo_seplan_vertical.png" alt="SEPLAN">
         </div>
       </div><!-- /.row -->
@@ -136,26 +142,26 @@ echo $tmp->getPage();
         <div class="app-landing-button pt-25 text-center">
 
           <!--Google Play-->
-          <a href="#" class="btn btn-lg btn-dark">
-            <span class="small">ESTATUTO ORGÁNICO DE LA SECRETARÍA<br>
-              TÉCNICA DE PLANEACIÓN Y EVALUACIÓN</span>
+          <a href="http://seplan.yucatan.gob.mx/Archivos/1. Ley de Planeación para el Desarrollo del estado de Yucatán.pdf" target="_blank" class=" btn btn-lg btn-dark">
+            <span class="small">LEY DE PLANEACIÓN PARA<br>
+              EL DESARROLLO DEL ESTADO DE YUCATÁN</span>
           </a>
           <div class="h-divider"></div>
           <!--Google Play-->
-          <a href="#" class="btn btn-lg btn-dark">
+          <a href="http://seplan.yucatan.gob.mx/Archivos/2. Estatuto orgánico de SEPLAN.pdf" target="_blank" class="btn btn-lg btn-dark">
             <span class="small">ESTATUTO ORGÁNICO DE LA SECRETARÍA<br>
               TÉCNICA DE PLANEACIÓN Y EVALUACIÓN</span>
           </a>
           <div class="h-divider"></div>
           <!--App Store-->
-          <a href="#" class="btn btn-lg btn-dark">
+          <a href="http://seplan.yucatan.gob.mx/Archivos/Manual de Organización-SEPLAN-2017.pdf" target="_blank" class="btn btn-lg btn-dark">
             <span class="small">MANUAL DE ORGANIZACIÓN DE LA SECRETARÍA<br>
               TÉCNICA DE PLANEACIÓN Y EVALUACIÓN</span>
           </a>
           <div class="h-divider"></div>
           <!--Google Play-->
-          <a href="#" class="btn btn-lg btn-dark" style="width:250px">
-            <span class="small">ORGANIGRAMA</span>
+          <a href="http://seplan.yucatan.gob.mx/Archivos/Organigrama Ejecutivo.jpg" class="btn btn-lg btn-dark" target="_blank" style="width:250px">
+            <span class="small">ORGANIGRAMA<br>INSTITUCIONAL</span>
           </a>
 
         </div>
@@ -166,12 +172,12 @@ echo $tmp->getPage();
 
   <!-- Our Skills -->
   <section class="page-section-top-alt-np mb-25 pb-100 pb-md-70 pb-sm-0" id="skills-showcase">
-    <div class="container" style="width:1400px">
+    <div class="container">
       <!-- Section Heading -->
       <div class="row">
         <div class="col-lg-12">
           <h2 id="heading" class="section-title text-center">FUNCIONES</h2>
-          <h3 class="section-title-nmt intro-text text-center pb-100 pb-md-95 pb-sm-60">----</h3>
+          <h3 class="section-title-nmt intro-text text-center pb-50 pb-md-95 pb-sm-60">----</h3>
         </div>
       </div>
       <!--/.row-->
@@ -284,22 +290,21 @@ echo $tmp->getPage();
     <!--/.container-->
     <br><br>
     <div class="col-md-12 text-center">
-      <div class="app-landing-button pt-25 text-center">
+      <div class="">
 
         <!--Google Play-->
-        <a href="#" class="btn btn-lg btn-dark" style="width:200px">
+        <a target="_blank" href="../docs/FUNDAMENTOS.pdf" class="btn btn-lg btn-dark" style="width:200px">
           <span class="small">FUNDAMENTOS</span>
         </a>
         <div class="h-divider"></div>
         <!--Google Play-->
-        <a href="#" class="btn btn-lg btn-dark">
+        <a target="_blank" href="../docs/Codigo_y_Etica_Seplan.pdf" class="btn btn-lg btn-dark">
           <span class="small">CODIGO DE ÉTICA Y CONDUCTA</span>
         </a>
         <div class="h-divider"></div>
       </div>
     </div>
   </section>
-
 
   <?php
   echo $tmp->generateFooter();

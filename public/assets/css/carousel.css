@@ -313,6 +313,7 @@
 .carousel-control .glyphicon-chevron-right,
 .carousel-control .icon-next {
    margin-right: -15px;
+   border-color: black;
 }
 .carousel-caption {
    left: 20%;

@@ -14,26 +14,28 @@ echo $tmp->getPage();
   echo $tmp->generateNavbar();
   ?>
 
-  <section id="section-page-header" class="grid-block" style="background-image: url('assets/img/seplan/business_meeting.jpg'); background-size: cover;">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <!--Heading-->
-          <h1 style="color: white;">CONSEJOS</h1>
-        </div>
-        <!--Breadcrumb-->
-        <div class="col-md-4">
-          <div class="breadcrumb">
-            <ul>
-              <li><a href="#">INICIO</a></li>
-              <li><a href="#">INFORMACIÓN</a></li>
-            </ul>
+  <div>
+    <section id="section-page-header" class="grid-block" style="background-image: url('assets/img/seplan/consejos.jpg'); background-size: cover;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8">
+            <!--Heading-->
+            <h1 style="color: white;font-weight: bold;">CONSEJOS</h1>
+          </div>
+          <!--Breadcrumb-->
+          <div class="col-md-4">
+            <div class="breadcrumb">
+              <ul>
+                <li><a href="../index.php">INICIO</a></li>
+                <li><a href="../consejos.php">INFORMACIÓN</a></li>
+              </ul>
+            </div>
           </div>
         </div>
+        <!--/.row-->
       </div>
-      <!--/.row-->
-    </div>
-  </section>
+    </section>
+  </div>
 
   <!-- Shadow Element -->
   <section id="box-shadow-bottom"> </section>
@@ -82,8 +84,8 @@ echo $tmp->getPage();
               ciudadana.
               </br>
             </p>
-            <a href="#" class="btn btn-lg btn-dark" style="width:200px">
-              <span class="small">QUIENES LO INTEGRAN</span>
+            <a href="http://seplan.yucatan.gob.mx/index.php/control_sitio/copledey" target="_blank" class="btn btn-lg btn-dark">
+              <span class="small">IR AL SITIO</span>
             </a>
           </div><!-- /.col -->
         </div><!-- /.project-right-side -->
@@ -111,8 +113,8 @@ echo $tmp->getPage();
               competencia.
               </br>
             </p>
-            <a href="#" class="btn btn-lg btn-dark" style="width:200px">
-              <span class="small">QUIENES LO INTEGRAN</span>
+            <a href="http://seplan.yucatan.gob.mx/index.php/control_sitio/ceieg" target="_blank" class="btn btn-lg btn-dark" >
+              <span class="small">IR AL SITIO</span>
             </a>
           </div><!-- /.col -->
         </div><!-- /.project-right-side -->
