@@ -123,12 +123,21 @@ h4: 20px, letter-spacing: 1.5px
 /* ==============================================================
    1. Common Styles
    ============================================================== */
+@font-face {
+    font-family: 'Panton-Regular';
+    src: url('../../font/panton/Panton-Regular.otf');
+
+}   
+
 body, html {
     height: 100%
 }
    
 body {
+<<<<<<< HEAD
     font-family: 'Open Sans', sans-serif;
+=======
+>>>>>>> e3605e434b403f23bbae0719211deb941a211edc
     font-family: 'Panton-Regular', sans-serif;
     text-shadow: none;
     background: #fff;
